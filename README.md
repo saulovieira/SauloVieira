@@ -13,12 +13,12 @@
 <div>
   <div style="display: inline-block">
     <a href="https://github.com/saulovieira">
-      <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulovieira&layout=compact&langs_count=7&theme=gruvbox"/>
+      <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulovieira&layout=compact&langs_count=7&theme=transparent"/>
     </a>
   </div>&nbsp;&nbsp;
   <div style="display: inline-block">
     <a href="https://github.com/saulovieira">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=saulovieira&theme=gruvbox&repo=squadfullstack"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=saulovieira&theme=transparent&repo=squadfullstack"/>
     </a>
   </div>
 </div>
