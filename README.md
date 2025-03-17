@@ -1,6 +1,5 @@
-# Seja bem vindo! Meu nome é Saulo Vieira
-
- Eu desenvolvedor de software. Já desenvolvi projetos para telecom, TV a cabo, mineração, cartão de crédito, indústria farmacêutica. 
+Bem-vindo! Sou Saulo Vieira
+Desenvolvedor de software com experiência na criação e implementação de projetos para múltiplos setores, incluindo telecomunicações, TV a cabo, mineração, serviços financeiros de cartão de crédito e indústria farmacêutica. Minha expertise está em transformar requisitos complexos em soluções tecnológicas eficientes e personalizadas.
 
 <div>
   <a href="https://www.linkedin.com/in/saulovafilho/" target="_top"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
